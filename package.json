@@ -59,6 +59,7 @@
   "license": "MIT",
   "dependencies": {
     "after": "~0.8.1",
+    "async": "^2.4.1",
     "bl": "^1.1.2",
     "boganipsum": "~0.1.0",
     "colors-tmpl": "^1.0.0",
@@ -66,6 +67,7 @@
     "concat-stream": "^1.5.1",
     "duplexer": "^0.1.1",
     "hyperquest": "^2.0.0",
+    "mocha": "^3.4.2",
     "rimraf": "^2.5.4",
     "through": "^2.3.8",
     "through2": "^2.0.1",
